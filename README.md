@@ -46,3 +46,7 @@
 [ APIs gratuitas ]
 - [RapidAPI](https://rapidapi.com/collection/list-of-free-apis)
 
+[ Microsoft Cursos ]
+- [Git](https://docs.microsoft.com/es-es/learn/modules/intro-to-git/)
+- [NodeJS](https://docs.microsoft.com/es-es/learn/paths/build-javascript-applications-nodejs/)
+
