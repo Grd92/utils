@@ -10,8 +10,13 @@
 - [Netlify](https://netlify.com/)
 
 [ Despliegue de Apps Servers ]
-
+- [Render](https://render.com/)
+- [Railway](https://railway.app/)
 - [Fly.io](https://fly.io/)
+- [Qoddi](https://qoddi.com/)
+- [Deta *](https://www.deta.sh/)
+- [Linode](https://www.linode.com/es/)
+- [Deno - plan deploy](https://deno.land/)
 
 [ Base de datos MongoDB - prueba gratuita sin Tarjeta de credito ]
 
