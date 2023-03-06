@@ -64,5 +64,5 @@
 - [NodeJS](https://docs.microsoft.com/es-es/learn/paths/build-javascript-applications-nodejs/)
 
 [ Aprender Patrones de Diseño ]
-- [Refacturing Guru](https://refactoring.guru/es/design-patterns)
+- [Refactoring Guru](https://refactoring.guru/es/design-patterns)
 
