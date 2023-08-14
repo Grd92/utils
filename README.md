@@ -1,5 +1,8 @@
 # utils
 
+[ Make Mocks ]
+- [Shots](https://shots.so/)
+
 [ Iconos para Desarrollo Web ]
 
 - [tabler-icons](https://tabler-icons.io/)
