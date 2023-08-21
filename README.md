@@ -1,11 +1,30 @@
-# utils
+# Node.JS & JS
+
+[ EasyNPM - plataforma donde puedes buscar fácilmente paquetes de nodejs y echar un vistazo a los detalles ]
+- [EasyNPM](https://easynpm.netlify.app/)
+
+[ Operadores de Javascript ]
+- [ Buscador operadores JS ](https://www.joshwcomeau.com/operator-lookup/)
+
+# GIT
+
+[ Generador de .gitignore file ]
+- [Generador .gitignore](https://www.toptal.com/developers/gitignore/)
+
+# Utils
 
 [ Make Mocks ]
 - [Shots](https://shots.so/)
 
+[ Generador Paleta Colores ]
+- [Aicolors](https://aicolors.co/)
+
 [ Iconos para Desarrollo Web ]
 
 - [tabler-icons](https://tabler-icons.io/)
+
+[ Como saber el tamaño de linea ideal de CSS ]
+- [Tamaño linea ideal](https://thegoodlineheight.com/)
 
 [ Comunidad Dev ]
 
@@ -76,4 +95,6 @@
 
 [ Bootcamp FullStack JavaScript gratuito, en español y práctico ]
 - [fullstackopen](https://fullstackopen.com/es/)
+
+
 
