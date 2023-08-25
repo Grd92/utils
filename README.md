@@ -6,6 +6,10 @@
 [ Operadores de Javascript ]
 - [ Buscador operadores JS ](https://www.joshwcomeau.com/operator-lookup/)
 
+# Javascript & TypeScript
+
+[ Guia de estilo - TypeScript ](https://mkosir.github.io/typescript-style-guide/)
+
 # GIT
 
 [ Generador de .gitignore file ]
