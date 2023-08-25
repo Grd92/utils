@@ -9,7 +9,7 @@
 # Javascript & TypeScript
 
 [ Guias de estilo ]
-[ TypeScript ](https://mkosir.github.io/typescript-style-guide/)
+- [ TypeScript ](https://mkosir.github.io/typescript-style-guide/)
 
 # GIT
 
