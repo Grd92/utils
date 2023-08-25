@@ -8,7 +8,8 @@
 
 # Javascript & TypeScript
 
-[ Guia de estilo - TypeScript ](https://mkosir.github.io/typescript-style-guide/)
+[ Guias de estilo ]
+[ TypeScript ](https://mkosir.github.io/typescript-style-guide/)
 
 # GIT
 
