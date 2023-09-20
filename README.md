@@ -22,7 +22,7 @@
 - [Shots](https://shots.so/)
 
 [ Generador de JSON con IA ]
-- [jsondataai/](https://www.jsondataai.com/)
+- [jsondataai](https://www.jsondataai.com/)
 
 [ Generador Paleta Colores ]
 - [Aicolors](https://aicolors.co/)
