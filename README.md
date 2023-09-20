@@ -21,6 +21,9 @@
 [ Make Mocks ]
 - [Shots](https://shots.so/)
 
+[ Generador de JSON con IA ]
+- [jsondataai/](https://www.jsondataai.com/)
+
 [ Generador Paleta Colores ]
 - [Aicolors](https://aicolors.co/)
 
@@ -32,6 +35,10 @@
 - [Tamaño linea ideal](https://thegoodlineheight.com/)
 
 [ Comunidad Dev ]
+
+- [devchallenges.io](https://devchallenges.io/)
+
+[ Retos de programación ]
 
 - [dev.to](https://dev.to/)
 
@@ -97,6 +104,9 @@
 
 [ Aprender Patrones de Diseño ]
 - [Refactoring Guru](https://refactoring.guru/es/design-patterns)
+
+[ Aprender SQL ]
+- [SQLBolt](https://sqlbolt.com/)
 
 [ Bootcamp FullStack JavaScript gratuito, en español y práctico ]
 - [fullstackopen](https://fullstackopen.com/es/)
