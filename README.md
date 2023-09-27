@@ -104,6 +104,7 @@
 
 [ Aprender Patrones de Diseño ]
 - [Refactoring Guru](https://refactoring.guru/es/design-patterns)
+- [Patterns - JS](https://www.patterns.dev/)
 
 [ Aprender SQL ]
 - [SQLBolt](https://sqlbolt.com/)
