@@ -24,9 +24,10 @@
 [ Generador de JSON con IA ]
 - [jsondataai](https://www.jsondataai.com/)
 
-[ Generador Paleta Colores ]
+[ Generador Paleta Colores & Elements ]
 - [Aicolors](https://aicolors.co/)
 - [UI Colors](https://uicolors.app/)
+- [UI Verse](https://uiverse.io/)
 
 [ Iconos para Desarrollo Web ]
 
