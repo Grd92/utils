@@ -1,3 +1,13 @@
+# GIT
+
+[ Generador de .gitignore file ]
+- [Generador .gitignore](https://www.toptal.com/developers/gitignore/)
+
+# Javascript & TypeScript
+
+[ Guias de estilo ]
+- [ TypeScript ](https://mkosir.github.io/typescript-style-guide/)
+
 # Node.JS & JS
 
 [ EasyNPM - plataforma donde puedes buscar fácilmente paquetes de nodejs y echar un vistazo a los detalles ]
@@ -6,15 +16,9 @@
 [ Operadores de Javascript ]
 - [ Buscador operadores JS ](https://www.joshwcomeau.com/operator-lookup/)
 
-# Javascript & TypeScript
-
-[ Guias de estilo ]
-- [ TypeScript ](https://mkosir.github.io/typescript-style-guide/)
-
-# GIT
-
-[ Generador de .gitignore file ]
-- [Generador .gitignore](https://www.toptal.com/developers/gitignore/)
+# Observability
+[ Plataformas para observabilidad de sitios ]
+- [ Axion - Free plan ](https://axiom.co/)
 
 # Utils
 
@@ -100,6 +104,8 @@
 
 [ Alternativas a Postman ]
 - [usebruno](https://www.usebruno.com/)
+
+------------------------
 
 # Learn
 
