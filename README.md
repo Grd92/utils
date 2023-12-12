@@ -3,6 +3,9 @@
 [ Generador de .gitignore file ]
 - [Generador .gitignore](https://www.toptal.com/developers/gitignore/)
 
+[ GIT Utils ]
+- [Ayuda GIT](https://firstaidgit.io/#/)
+
 # Javascript & TypeScript
 
 [ Guias de estilo ]
@@ -62,6 +65,7 @@
 - [Deta *](https://www.deta.sh/)
 - [Linode](https://www.linode.com/es/)
 - [Deno - plan deploy](https://deno.land/)
+- [Uptash](https://upstash.com/)
 
 [ Base de datos MongoDB - prueba gratuita sin Tarjeta de credito ]
 
@@ -83,9 +87,6 @@
 
 [ Feature Flags en tu app GRATIS ]
 - [Optimizely](https://www.optimizely.com/free-feature-flagging/)
-
-[ GIT Utils ]
-- [Ayuda GIT](https://firstaidgit.io/#/)
 
 [ Endpoint API Datos de prueba ]
 - [Mocky](https://designer.mocky.io/)
