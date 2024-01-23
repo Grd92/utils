@@ -49,6 +49,9 @@
 - [tabler-icons](https://tabler-icons.io/)
 - [Lucide.dev - Catálogo de +1300 Iconos : React, Angular, Vue, Svelte y más ](https://lucide.dev/)
 
+[ Fuentes ]
+- [Fontpair - buscador de fuentes](https://www.fontpair.co/)
+
 [ Como saber el tamaño de linea ideal de CSS ]
 - [Tamaño linea ideal](https://thegoodlineheight.com/)
 
