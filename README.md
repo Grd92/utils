@@ -48,6 +48,7 @@
 
 - [tabler-icons](https://tabler-icons.io/)
 - [Lucide.dev - Catálogo de +1300 Iconos : React, Angular, Vue, Svelte y más ](https://lucide.dev/)
+- [Icon Archive](https://iconarchive.com)
 
 [ Fuentes ]
 - [Fontpair - buscador de fuentes](https://www.fontpair.co/)
