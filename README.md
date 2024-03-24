@@ -19,6 +19,9 @@
 [ Linters ]
 - [ The JavaScript Oxidation Compiler ](https://oxc-project.github.io/)
 
+[ Compiler ]
+- [Oxc](https://oxc-project.github.io/)
+
 # Node.JS & JS
 
 [ EasyNPM - plataforma donde puedes buscar fácilmente paquetes de nodejs y echar un vistazo a los detalles ]
