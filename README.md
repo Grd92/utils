@@ -79,6 +79,7 @@
 - [Linode](https://www.linode.com/es/)
 - [Deno - plan deploy](https://deno.land/)
 - [Uptash](https://upstash.com/)
+- [Axiom](https://axiom.co/)
 
 [ Base de datos MongoDB - prueba gratuita sin Tarjeta de credito ]
 
