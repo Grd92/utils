@@ -15,6 +15,9 @@
 
 # Javascript & TypeScript
 
+[ Aprender JavaScript ]
+- [ Google ](https://web.dev/learn/javascript/welcome?hl=es-419)
+
 [ Guias de estilo ]
 - [ TypeScript ](https://mkosir.github.io/typescript-style-guide/)
 
