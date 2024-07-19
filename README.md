@@ -16,6 +16,9 @@
 [ Componentes ]
 - [ Aceternity UI ](https://ui.aceternity.com/)
 
+[ CSS Layout Generator ]
+- [Online CSS Layout Generator](https://layout.bradwoods.io/)
+
 # Javascript & TypeScript
 
 [ Aprender JavaScript ]
