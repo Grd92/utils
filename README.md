@@ -94,6 +94,7 @@
 - [Deno - plan deploy](https://deno.land/)
 - [Uptash](https://upstash.com/)
 - [Axiom](https://axiom.co/)
+- [Koyeb](https://www.koyeb.com/)
 
 [ Base de datos MongoDB - prueba gratuita sin Tarjeta de credito ]
 
