@@ -153,5 +153,14 @@
 [ Bootcamp FullStack JavaScript gratuito, en español y práctico ]
 - [fullstackopen](https://fullstackopen.com/es/)
 
+------------------------
+
+# SEO
+
+[ Utilidades SEO ]
+- [dinorank](https://dinorank.com/)
+- [gtmetrix](https://gtmetrix.com/)
+- [wp-rocket](https://wp-rocket.me/es/)
+- 
 
 
