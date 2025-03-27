@@ -19,6 +19,9 @@
 [ CSS Layout Generator ]
 - [Online CSS Layout Generator](https://layout.bradwoods.io/)
 
+[ UX Laws - leyes ]
+- [Lawsofux](https://lawsofux.com/es/)
+
 # Javascript & TypeScript
 
 [ Aprender JavaScript ]
