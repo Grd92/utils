@@ -22,6 +22,10 @@
 [ UX Laws - leyes ]
 - [Lawsofux](https://lawsofux.com/es/)
 
+[ Sweet Scrool Animations ]
+- [Lenis](https://lenis.darkroom.engineering/)
+- [GSAP](https://gsap.com/)
+
 # Javascript & TypeScript
 
 [ Aprender JavaScript ]
