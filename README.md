@@ -73,6 +73,7 @@
 
 [ Fuentes ]
 - [Fontpair - buscador de fuentes](https://www.fontpair.co/)
+- [FontShare](https://www.fontshare.com/)
 
 [ Como saber el tamaño de linea ideal de CSS ]
 - [Tamaño linea ideal](https://thegoodlineheight.com/)
